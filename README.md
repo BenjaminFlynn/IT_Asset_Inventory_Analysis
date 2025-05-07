@@ -15,25 +15,11 @@ This project demonstrates a complete data pipeline for inventory management usin
   - Identifies low-stock or out-of-stock items.
   - Analyzes inventory trends over time.
 
-## 📊 Use Case
-
-This project can be used by warehouse managers, retail analysts, or data engineers who need to:
-
-- Prepare inventory data for reporting or dashboarding.
-- Monitor stock levels and optimize restocking.
-- Derive insights from historical inventory trends.
-
-## 🚀 Getting Started
-
-1. **Run the ETL notebook** to clean and export inventory data.
-2. **Load the cleaned CSV** into a SQL database.
-3. **Execute the SQL script** to generate insights and reports.
-
 ## 🛠️ Requirements
 
-- Python (pandas, datetime)
-- Jupyter Notebook
-- SQL database (e.g., SQLite, PostgreSQL)
+- Python (Libaries: pandas, datetime, requests, JSON, Snowflake)
+- Jupyter Notebook or Google Collab
+- Data Warehouse (e.g., Snowflake data wearhouse)
 
 ## 📌 Author
 
