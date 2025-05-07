@@ -1,10 +1,6 @@
-# Tech_Inventory_Analysis
-Quarterly Inventory data analysis of all technology assets at the school site that I manage.  Utilizes Python to construct a ETL, Snowflake as a data warehouse, sql to query the data and Tableau for visualization.
-
-
 # 🗃️ Inventory Data Pipeline and Analysis
 
-This project demonstrates a complete data pipeline for inventory management using Python for ETL (Extract, Transform, Load) and SQL for analysis. It is designed to support data-driven decision-making for businesses managing physical inventory.
+This project demonstrates a complete data pipeline for inventory management using Python for ETL (Extract, Transform, Load) and SQL for analysis. It was designed to complete quarterly Inventory data analysis of all technology assets at the school site that I manage.  Insights gathered from this analysis is used to determine which Chromebooks are outside of their 5 year warranty, how many additional Chromebooks need to be purchased and how many Chromebooks need to be updated.
 
 ## 📁 Project Structure
 
